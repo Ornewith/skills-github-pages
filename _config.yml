@@ -1,0 +1,7 @@
+theme: minima
+# Site settings
+title: Your Project's Name
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my personal website where I share my projects, write blog posts,
+  and showcase my portfolio.
