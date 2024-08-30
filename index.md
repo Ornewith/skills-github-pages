@@ -1,6 +1,3 @@
----
-title: Welcome to my blog
----
 # Welcome to My Random Content Page! 🎉
 
 ## This Is Where Creativity Meets Chaos
